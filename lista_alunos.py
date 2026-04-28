@@ -23,4 +23,4 @@ melhor_aluno = nome[indice_maior]
 print(f"\nlista de alunos: {nome}")
 print(f'\nmedias de cada alunos: {medias}')
 print(f"\nmedia da sala: {media_sala}")
-print(f"\nmelhor aluno foi: {melhor_aluno}, media nota: {indice_maior}")
+print(f"\nmelhor aluno foi: {melhor_aluno}, media nota: {maior_nota}")
