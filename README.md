@@ -1,4 +1,4 @@
-Minha Jornada na Programação com Python 🚀
+Minha Jornada na Programação com Python 
 Bem-vindo ao meu repositório de estudos! Aqui estou documentando meu progresso saindo do zero até o nível profissional. Este espaço serve para guardar meus exercícios de lógica, refatorações e desafios superados.
 
  O que estou aprendendo:
