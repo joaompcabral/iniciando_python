@@ -18,6 +18,7 @@ Clean Code: Organizando o código para que seja fácil de ler, manter e profissi
 
  Exercícios Atuais:
 Vetores e Lógica Avançada
+
 lista _alunos.py: Sistema que cadastra alunos e médias, utilizando as funções max() e .index() para identificar o melhor aluno da turma e calcular a média geral do grupo.
 
 lista_candidatos.py: Script de recrutamento que utiliza listas paralelas. Implementa validação de notas (0 a 10) e gera um relatório automático de aprovados.
@@ -28,6 +29,8 @@ IMC.py: Calculadora de Índice de Massa Corporal com classificação de faixas d
 par_impar.py: Verificador de paridade usando o operador de módulo %.
 
 primo.py: Algoritmo para identificação de números primos através de loops e divisões sucessivas.
+
+controle_estoque: Sistema de gerenciamento de estoque em Python que utiliza listas paralelas conectadas por índices para validar entradas e identificar produtos com baixa quantidade.
 
  Tecnologias Utilizadas:
 Linguagem: Python 3
